@@ -12,3 +12,4 @@ Vercel is not only hosts static sites but stateless methods as well.  See the `a
 # Links
 * [vercel](https://vercel.com) static site and serverless functions
 * [sapper-lab](https://sapper-lab.vercel.app/) this site hosted on vercel
+* [stateless method](https://sapper-lab.vercel.app/api/echo?hello=world) code can run on cloud server for batch processes and accessing secure systems.
