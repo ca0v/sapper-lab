@@ -1,10 +1,10 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper-lab",
+  "description": "Sapper and Svelte Playground",
   "version": "0.0.1",
   "scripts": {
     "start": "sapper dev",
-    "dev": "sapper dev --port $PORT",
+    "dev": "sapper dev --no-hot --port 3001",
     "build": "sapper export",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
